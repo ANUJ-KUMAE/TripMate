@@ -1,0 +1,10 @@
+export * from './Home/HomePage'
+export * from './Auth/LoginPage'
+export * from './Auth/RegisterPage'
+export * from './Properties/PropertiesPage'
+export * from './Properties/PropertyDetailPage'
+export * from './Bookings/MyTripsPage'
+export * from './Host/CreateListingPage'
+export * from './Profile/ProfilePage'
+export * from './NotFound/NotFoundPage'
+
